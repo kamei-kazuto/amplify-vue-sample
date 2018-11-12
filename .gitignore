@@ -1,0 +1,6 @@
+node_modules
+amplify
+dist
+src/aws-exports.js
+.amplifyrc
+yarn.lock
